@@ -26,7 +26,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": "Media",
@@ -43,7 +45,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": "Media",
@@ -60,7 +64,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": "Media",
@@ -77,7 +84,12 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "soja",
+      "lacteos",
+      "frutos_cascara"
+     ],
      "precios": [
       {
        "etiqueta": "Media",
@@ -94,7 +106,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": "Media",
@@ -111,7 +125,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": "Media",
@@ -128,7 +144,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": "Media",
@@ -145,7 +163,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": "Media",
@@ -162,7 +182,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": "Media",
@@ -179,7 +202,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": "Media",
@@ -196,7 +222,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": "Media",
@@ -213,7 +242,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": "Media",
@@ -230,7 +262,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": "Media",
@@ -247,7 +281,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "pescado"
+     ],
      "precios": [
       {
        "etiqueta": "Media",
@@ -264,7 +301,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": "Media",
@@ -281,7 +320,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": "Media",
@@ -298,7 +339,11 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "pescado",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": "Media",
@@ -315,7 +360,11 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "pescado",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": "Media",
@@ -332,7 +381,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": "Media",
@@ -349,7 +401,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": "Media",
@@ -366,7 +421,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": "Media",
@@ -383,7 +440,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "pescado"
+     ],
      "precios": [
       {
        "etiqueta": "Media",
@@ -400,7 +460,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": "Media",
@@ -437,7 +499,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -470,7 +534,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -509,7 +575,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -568,7 +636,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -607,7 +677,11 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -666,7 +740,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "cacahuetes",
+      "frutos_cascara"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -679,7 +756,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "altramuces"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -699,7 +778,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -712,7 +793,9 @@
      "descripcion": "Ketchup, mayonesa, alioli o mojo picón",
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "huevos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -725,7 +808,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -738,7 +823,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -764,7 +851,9 @@
      "descripcion": "Carne kebab y salsa yogur",
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -777,7 +866,9 @@
      "descripcion": "Ketchup, mayonesa, alioli o mojo picón",
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "huevos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -790,7 +881,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "huevos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -803,7 +897,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -816,7 +913,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -849,7 +948,10 @@
      "descripcion": "Lechuga, tomate, atún, aceitunas, cebolla crujiente",
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "pescado"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -862,7 +964,12 @@
      "descripcion": "Lechuga, queso, pollo, salsa César, picatostes",
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "pescado",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -875,7 +982,11 @@
      "descripcion": "Lechuga, tomate, queso, pollo, salsa balsámica, cebolla crujiente",
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "lacteos",
+      "sulfitos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -888,7 +999,9 @@
      "descripcion": "Lechuga, tomate, queso, kebab, salsa yogur",
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -908,7 +1021,9 @@
      "descripcion": "Aceite de oliva virgen extra",
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -921,7 +1036,10 @@
      "descripcion": "Aceite de oliva virgen extra",
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -934,7 +1052,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "huevos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -947,7 +1068,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -960,7 +1083,10 @@
      "descripcion": "Tomate, lechuga y aceite de oliva virgen extra",
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -973,7 +1099,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "huevos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -986,7 +1115,11 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "pescado"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -999,7 +1132,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "huevos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1012,7 +1148,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1025,7 +1163,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1045,7 +1185,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1058,7 +1201,11 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1071,7 +1218,12 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "pescado",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1084,7 +1236,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "huevos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1097,7 +1252,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "huevos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1110,7 +1268,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "sulfitos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1123,7 +1284,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1136,7 +1300,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1149,7 +1315,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1162,7 +1330,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1182,7 +1353,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1195,7 +1369,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1208,7 +1385,12 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "pescado",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1221,7 +1403,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1234,7 +1419,11 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "pescado",
+      "sulfitos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1247,7 +1436,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1260,7 +1452,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "huevos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1273,7 +1468,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "sulfitos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1286,7 +1484,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "pescado"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1299,7 +1500,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1319,7 +1522,11 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "pescado",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1332,7 +1539,11 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "pescado"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1345,7 +1556,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1358,7 +1572,11 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "sulfitos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1371,7 +1589,11 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "pescado",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1384,7 +1606,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "huevos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1397,7 +1622,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1410,7 +1637,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1423,7 +1653,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "huevos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1436,7 +1669,12 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "pescado",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1456,7 +1694,9 @@
      "descripcion": "Jamón serrano, lomo, patatas fritas y salsa whisky",
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1469,7 +1709,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "huevos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1482,7 +1725,9 @@
      "descripcion": "Jamón serrano, lomo y cebolla caramelizada",
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1495,7 +1740,9 @@
      "descripcion": "Jamón serrano, pollo y cebolla caramelizada",
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1508,7 +1755,12 @@
      "descripcion": "Pollo, queso, cebolla crujiente y salsa César",
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "pescado",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1521,7 +1773,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1534,7 +1789,11 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "pescado",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1547,7 +1806,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1560,7 +1822,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1573,7 +1838,9 @@
      "descripcion": "Jamón ibérico y aceite de oliva virgen extra",
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1593,7 +1860,11 @@
      "descripcion": "Montados 1, 8, 19, 20 y 41",
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1606,7 +1877,12 @@
      "descripcion": "Montados 4, 7, 17, 29 y 43",
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "pescado",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1619,7 +1895,12 @@
      "descripcion": "Montados 2, 6, 16, 37 y 46",
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "lacteos",
+      "sulfitos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1632,7 +1913,12 @@
      "descripcion": "Montados 3, 13, 18, 31 y 50",
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "pescado",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1652,7 +1938,9 @@
      "descripcion": "Corte a cuchillo, aceite de oliva virgen extra",
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1665,7 +1953,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "huevos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1678,7 +1969,11 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "pescado"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1691,7 +1986,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "huevos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1704,7 +2002,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1717,7 +2017,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "sulfitos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1730,7 +2033,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1743,7 +2049,10 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1756,7 +2065,9 @@
      "descripcion": "Pollo o lomo, jamón serrano y pimiento verde",
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1769,7 +2080,9 @@
      "descripcion": "Jamón serrano, lomo, patatas y salsa whisky",
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1789,7 +2102,11 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "soja",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1802,7 +2119,11 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten",
+      "soja",
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1822,7 +2143,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": "Pequeña",
@@ -1839,7 +2162,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": "Pequeña",
@@ -1856,7 +2181,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": "Pequeña",
@@ -1873,7 +2200,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "sulfitos"
+     ],
      "precios": [
       {
        "etiqueta": "Pequeña",
@@ -1897,7 +2226,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1910,7 +2241,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1923,7 +2256,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1936,7 +2271,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "gluten"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1956,7 +2293,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "sulfitos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1969,7 +2308,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "sulfitos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1982,7 +2323,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "sulfitos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -1995,7 +2338,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "sulfitos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -2041,7 +2386,9 @@
      "descripcion": null,
      "disponible": true,
      "destacado": false,
-     "alergenos": [],
+     "alergenos": [
+      "lacteos"
+     ],
      "precios": [
       {
        "etiqueta": null,
@@ -2150,5 +2497,21 @@
    ],
    "turno": "Carta"
   }
- ]
+ ],
+ "alergenos": {
+  "gluten": "Gluten",
+  "crustaceos": "Crustáceos",
+  "huevos": "Huevo",
+  "pescado": "Pescado",
+  "cacahuetes": "Cacahuetes",
+  "soja": "Soja",
+  "lacteos": "Lácteos",
+  "frutos_cascara": "Frutos de cáscara",
+  "apio": "Apio",
+  "mostaza": "Mostaza",
+  "sesamo": "Sésamo",
+  "sulfitos": "Sulfitos",
+  "altramuces": "Altramuces",
+  "moluscos": "Moluscos"
+ }
 }
