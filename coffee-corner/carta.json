@@ -1,0 +1,670 @@
+{
+ "nombre": "Coffee Corner",
+ "subtitulo": null,
+ "nota_pie": "Horario de cocina: de 13:00 a 16:00 y de 20:30 a 23:30. Todos los bocadillos y hamburguesas se sirven con patatas fritas.",
+ "activa": true,
+ "actualizada": "2026-09-17",
+ "turnos": [],
+ "secciones": [
+  {
+   "nombre": "Bocadillos clásicos",
+   "descripcion": null,
+   "items": [
+    {
+     "nombre": "Carne mechá y queso",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten",
+      "lacteos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 5.0
+      }
+     ]
+    },
+    {
+     "nombre": "Salmón y crema de queso",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten",
+      "pescado",
+      "lacteos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 5.0
+      }
+     ]
+    },
+    {
+     "nombre": "Vegetal de atún",
+     "descripcion": "Atún, lechuga y tomate",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten",
+      "pescado"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 5.0
+      }
+     ]
+    },
+    {
+     "nombre": "Tortilla casera con mayonesa",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "mostaza"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 5.0
+      }
+     ]
+    },
+    {
+     "nombre": "Pollo o lomo con queso y bacon",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten",
+      "lacteos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 5.0
+      }
+     ]
+    },
+    {
+     "nombre": "Jamón ibérico con aceite de oliva",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten",
+      "sulfitos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 5.0
+      }
+     ]
+    }
+   ],
+   "turno": null
+  },
+  {
+   "nombre": "Bocadillos especiales",
+   "descripcion": null,
+   "items": [
+    {
+     "nombre": "Crispy chicken",
+     "descripcion": "Pollo empanado, bacon y queso",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "soja",
+      "lacteos",
+      "sesamo"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 6.0
+      }
+     ]
+    },
+    {
+     "nombre": "Kebab Corner",
+     "descripcion": "Pollo kebab con salsa kebab",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "soja",
+      "lacteos",
+      "sesamo"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 6.0
+      }
+     ]
+    },
+    {
+     "nombre": "Serranito de pollo o lomo",
+     "descripcion": "Lomo o pollo, pimiento y jamón",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten",
+      "lacteos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 6.0
+      }
+     ]
+    }
+   ],
+   "turno": null
+  },
+  {
+   "nombre": "Arma tu bocadillo",
+   "descripcion": "Elige 3 ingredientes de la lista. Los premium suman 1 € cada uno.",
+   "items": [
+    {
+     "nombre": "Arma tu bocadillo",
+     "descripcion": "3 ingredientes a elegir",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 6.0
+      }
+     ]
+    },
+    {
+     "nombre": "Proteínas: pollo, york, pavo, bacon, carne mechá, lomo o jamón serrano",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": []
+    },
+    {
+     "nombre": "Proteína: atún",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "pescado"
+     ],
+     "precios": []
+    },
+    {
+     "nombre": "Proteína: pollo kebab",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "soja",
+      "lacteos",
+      "mostaza"
+     ],
+     "precios": []
+    },
+    {
+     "nombre": "Proteína: tortilla",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "huevos"
+     ],
+     "precios": []
+    },
+    {
+     "nombre": "Quesos: edam o cheddar",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "lacteos"
+     ],
+     "precios": []
+    },
+    {
+     "nombre": "Vegetales: lechuga, zanahoria, pimiento o tomate",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": []
+    },
+    {
+     "nombre": "Premium: jamón ibérico",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "sulfitos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.0
+      }
+     ]
+    },
+    {
+     "nombre": "Premium: aguacate",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.0
+      }
+     ]
+    },
+    {
+     "nombre": "Premium: salmón",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "pescado"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.0
+      }
+     ]
+    }
+   ],
+   "turno": null
+  },
+  {
+   "nombre": "Hamburguesas",
+   "descripcion": null,
+   "items": [
+    {
+     "nombre": "Corner",
+     "descripcion": "Ternera 220 g, salsa burger, queso edam, lechuga, tomate, bacon y pepinillo",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten",
+      "lacteos",
+      "mostaza",
+      "sulfitos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 8.0
+      }
+     ]
+    },
+    {
+     "nombre": "Crispy",
+     "descripcion": "Pollo crujiente, salsa ranchera, queso cheddar, lechuga, tomate y bacon",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "lacteos",
+      "mostaza"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 7.0
+      }
+     ]
+    }
+   ],
+   "turno": null
+  },
+  {
+   "nombre": "Extras",
+   "descripcion": "Suplementos para bocadillos y hamburguesas.",
+   "items": [
+    {
+     "nombre": "Hazla doble",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "Huevo",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "huevos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.0
+      }
+     ]
+    },
+    {
+     "nombre": "Patatas cheddar y bacon o BBQ y bacon",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    }
+   ],
+   "turno": null
+  },
+  {
+   "nombre": "Entrantes y para compartir",
+   "descripcion": null,
+   "items": [
+    {
+     "nombre": "Patatas simples",
+     "descripcion": "2 salsas a elegir",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 4.0
+      }
+     ]
+    },
+    {
+     "nombre": "Patatas cheddar y bacon",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "soja",
+      "lacteos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 5.0
+      }
+     ]
+    },
+    {
+     "nombre": "Patatas bravas",
+     "descripcion": "Salsa brava y alioli",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "huevos",
+      "mostaza"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 5.0
+      }
+     ]
+    },
+    {
+     "nombre": "Patatas kebab",
+     "descripcion": "Salsa kebab y pollo kebab",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "huevos",
+      "soja",
+      "lacteos",
+      "mostaza"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 5.0
+      }
+     ]
+    },
+    {
+     "nombre": "Patatas rancheras",
+     "descripcion": "Ranchera, queso fundido y bacon",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "huevos",
+      "lacteos",
+      "mostaza"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 5.0
+      }
+     ]
+    },
+    {
+     "nombre": "Nachos cheddar y bacon",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "soja",
+      "lacteos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 5.0
+      }
+     ]
+    },
+    {
+     "nombre": "Alitas de pollo",
+     "descripcion": "5 unidades con salsa a elegir",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 5.0
+      }
+     ]
+    },
+    {
+     "nombre": "Fingers de pollo",
+     "descripcion": "5 o 6 unidades con salsa a elegir",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten",
+      "huevos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 5.0
+      }
+     ]
+    }
+   ],
+   "turno": null
+  },
+  {
+   "nombre": "Ensaladas",
+   "descripcion": null,
+   "items": [
+    {
+     "nombre": "Mixta",
+     "descripcion": "Lechuga, tomate, atún, zanahoria, aceite y vinagre",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "pescado",
+      "sulfitos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 4.0
+      }
+     ]
+    },
+    {
+     "nombre": "César",
+     "descripcion": "Lechuga, pollo, picatostes, queso y salsa César",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "pescado",
+      "lacteos",
+      "mostaza"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 5.0
+      }
+     ]
+    }
+   ],
+   "turno": null
+  },
+  {
+   "nombre": "Salsas extra",
+   "descripcion": "Suplemento por salsa.",
+   "items": [
+    {
+     "nombre": "Salsa extra",
+     "descripcion": "Mayonesa, kétchup, brava, alioli, César, cheddar, ranchera, burger o BBQ",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 0.5
+      }
+     ]
+    }
+   ],
+   "turno": null
+  },
+  {
+   "nombre": "Postres",
+   "descripcion": null,
+   "items": [
+    {
+     "nombre": "Gofre",
+     "descripcion": "Con helado, nata y sirope a elegir: chocolate, chocolate blanco, dulce de leche o caramelo",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "cacahuetes",
+      "soja",
+      "lacteos",
+      "frutos_cascara"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 4.0
+      }
+     ]
+    },
+    {
+     "nombre": "Browni",
+     "descripcion": "Con helado, sirope de chocolate y un toque crujiente de crocanti de almendra",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "cacahuetes",
+      "soja",
+      "lacteos",
+      "frutos_cascara"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 4.0
+      }
+     ]
+    },
+    {
+     "nombre": "Torrija",
+     "descripcion": "Con helado de vainilla, dulce de leche y un toque crujiente de crocanti de almendra",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "cacahuetes",
+      "lacteos",
+      "frutos_cascara"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 5.0
+      }
+     ]
+    }
+   ],
+   "turno": null
+  }
+ ],
+ "alergenos": {
+  "gluten": "Gluten",
+  "crustaceos": "Crustáceos",
+  "huevos": "Huevo",
+  "pescado": "Pescado",
+  "cacahuetes": "Cacahuetes",
+  "soja": "Soja",
+  "lacteos": "Lácteos",
+  "frutos_cascara": "Frutos de cáscara",
+  "apio": "Apio",
+  "mostaza": "Mostaza",
+  "sesamo": "Sésamo",
+  "sulfitos": "Sulfitos",
+  "altramuces": "Altramuces",
+  "moluscos": "Moluscos"
+ }
+}
