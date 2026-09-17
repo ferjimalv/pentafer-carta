@@ -1428,6 +1428,95 @@
    "turno": "Carta"
   },
   {
+   "nombre": "Aperitivos",
+   "descripcion": null,
+   "items": [
+    {
+     "nombre": "Aceitunas",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.0
+      }
+     ]
+    },
+    {
+     "nombre": "Altramuces",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "altramuces"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.0
+      }
+     ]
+    },
+    {
+     "nombre": "Frutos secos",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "frutos_cascara"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.0
+      }
+     ]
+    },
+    {
+     "nombre": "Bolsa de patatas o snacks",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.5
+      }
+     ]
+    },
+    {
+     "nombre": "Palomitas",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "Chicharrones",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 3.5
+      }
+     ]
+    }
+   ],
+   "turno": null
+  },
+  {
    "nombre": "Refrescos y agua",
    "descripcion": null,
    "items": [
