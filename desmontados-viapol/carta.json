@@ -9,6 +9,11 @@
    "nombre": "Desayunos",
    "desde": "05:00",
    "hasta": "12:00"
+  },
+  {
+   "nombre": "Carta",
+   "desde": "12:00",
+   "hasta": "05:00"
   }
  ],
  "secciones": [
@@ -612,6 +617,1538 @@
     }
    ],
    "turno": "Desayunos"
+  },
+  {
+   "nombre": "Para picar",
+   "descripcion": null,
+   "items": [
+    {
+     "nombre": "Cucurucho de patatas chip",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.0
+      }
+     ]
+    },
+    {
+     "nombre": "Aceitunas manzanilla",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.0
+      }
+     ]
+    },
+    {
+     "nombre": "Aceitunas aliñadas",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.0
+      }
+     ]
+    },
+    {
+     "nombre": "Revuelto de frutos secos",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.0
+      }
+     ]
+    },
+    {
+     "nombre": "Altramuces",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.0
+      }
+     ]
+    }
+   ],
+   "turno": "Carta"
+  },
+  {
+   "nombre": "Entrantes",
+   "descripcion": null,
+   "items": [
+    {
+     "nombre": "Patatas cheddar y bacon",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 3.0
+      }
+     ]
+    },
+    {
+     "nombre": "Patatas con salsa",
+     "descripcion": "Ketchup, mayonesa, alioli o mojo picón",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 3.0
+      }
+     ]
+    },
+    {
+     "nombre": "Nachos cheddar y bacon",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 3.0
+      }
+     ]
+    },
+    {
+     "nombre": "Nachos cheddar y guacamole",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 3.0
+      }
+     ]
+    },
+    {
+     "nombre": "Patatas bravas",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 3.5
+      }
+     ]
+    },
+    {
+     "nombre": "Patatas kebab",
+     "descripcion": "Carne kebab y salsa yogur",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 3.5
+      }
+     ]
+    },
+    {
+     "nombre": "Salchichas con salsa",
+     "descripcion": "Ketchup, mayonesa, alioli o mojo picón",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 3.5
+      }
+     ]
+    },
+    {
+     "nombre": "Fingers de pollo con mayonesa",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 3.5
+      }
+     ]
+    },
+    {
+     "nombre": "Bolas de queso con mermelada de fresa",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 3.5
+      }
+     ]
+    },
+    {
+     "nombre": "Aros de cebolla con BBQ",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 4.0
+      }
+     ]
+    },
+    {
+     "nombre": "Alitas con BBQ",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 4.0
+      }
+     ]
+    }
+   ],
+   "turno": "Carta"
+  },
+  {
+   "nombre": "Ensaladas",
+   "descripcion": null,
+   "items": [
+    {
+     "nombre": "Granjera",
+     "descripcion": "Lechuga, tomate, atún, aceitunas, cebolla crujiente",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 4.5
+      }
+     ]
+    },
+    {
+     "nombre": "César",
+     "descripcion": "Lechuga, queso, pollo, salsa César, picatostes",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 4.5
+      }
+     ]
+    },
+    {
+     "nombre": "Balsámica",
+     "descripcion": "Lechuga, tomate, queso, pollo, salsa balsámica, cebolla crujiente",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 4.5
+      }
+     ]
+    },
+    {
+     "nombre": "Mykonos",
+     "descripcion": "Lechuga, tomate, queso, kebab, salsa yogur",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 4.5
+      }
+     ]
+    }
+   ],
+   "turno": "Carta"
+  },
+  {
+   "nombre": "Montados 1,50 €",
+   "descripcion": null,
+   "items": [
+    {
+     "nombre": "1. Jamón serrano",
+     "descripcion": "Aceite de oliva virgen extra",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.5
+      }
+     ]
+    },
+    {
+     "nombre": "2. Queso",
+     "descripcion": "Aceite de oliva virgen extra",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.5
+      }
+     ]
+    },
+    {
+     "nombre": "3. Tortilla de patatas",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.5
+      }
+     ]
+    },
+    {
+     "nombre": "4. Bacon y salsa BBQ",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.5
+      }
+     ]
+    },
+    {
+     "nombre": "5. Crema de queso",
+     "descripcion": "Tomate, lechuga y aceite de oliva virgen extra",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.5
+      }
+     ]
+    },
+    {
+     "nombre": "6. Lomo al ajillo con mayonesa",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.5
+      }
+     ]
+    },
+    {
+     "nombre": "7. Atún, tomate y mayonesa",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.5
+      }
+     ]
+    },
+    {
+     "nombre": "8. Pollo con alioli",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.5
+      }
+     ]
+    },
+    {
+     "nombre": "9. Pollo kebab con BBQ",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.5
+      }
+     ]
+    },
+    {
+     "nombre": "10. Chistorra",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.5
+      }
+     ]
+    }
+   ],
+   "turno": "Carta"
+  },
+  {
+   "nombre": "Montados 1,80 €",
+   "descripcion": null,
+   "items": [
+    {
+     "nombre": "11. Crema de queso y bacon",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.8
+      }
+     ]
+    },
+    {
+     "nombre": "12. Crema de queso y tortilla de patatas",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.8
+      }
+     ]
+    },
+    {
+     "nombre": "13. Atún, lechuga y salsa César",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.8
+      }
+     ]
+    },
+    {
+     "nombre": "14. Tortilla de patatas con alioli",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.8
+      }
+     ]
+    },
+    {
+     "nombre": "15. Tortilla de patatas con ketchup",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.8
+      }
+     ]
+    },
+    {
+     "nombre": "16. Carrillera al vino tinto",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.8
+      }
+     ]
+    },
+    {
+     "nombre": "17. Pollo, cebolla caramelizada y salsa yogur",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.8
+      }
+     ]
+    },
+    {
+     "nombre": "18. Pollo kebab, cebolla crujiente y BBQ",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.8
+      }
+     ]
+    },
+    {
+     "nombre": "19. Hot dog, ketchup y cebolla crujiente",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.8
+      }
+     ]
+    },
+    {
+     "nombre": "20. Burger, salsa cheddar y cebolla crujiente",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.8
+      }
+     ]
+    }
+   ],
+   "turno": "Carta"
+  },
+  {
+   "nombre": "Montados 2 €",
+   "descripcion": null,
+   "items": [
+    {
+     "nombre": "21. Chistorra y crema de queso",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "22. Bacon, crema de queso y cebolla caramelizada",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "23. Pollo kebab, tomate, lechuga y salsa César",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "24. Jamón serrano y queso",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "25. Atún, tomate, lechuga y balsámica",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "26. Hot dog, bacon y cheddar",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "27. Burger, bacon, cebolla crujiente y alioli",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "28. Pollo, tomate, lechuga y balsámica",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "29. Anchoa, tomate y aceite de oliva virgen extra",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "30. Jamón serrano, tomate y aceite de oliva virgen extra",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    }
+   ],
+   "turno": "Carta"
+  },
+  {
+   "nombre": "Montados 2,40 €",
+   "descripcion": null,
+   "items": [
+    {
+     "nombre": "31. Salmón y crema de queso",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.4
+      }
+     ]
+    },
+    {
+     "nombre": "32. Salmón, lechuga y mayonesa",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.4
+      }
+     ]
+    },
+    {
+     "nombre": "33. Tomate, lechuga, cebolla caramelizada y crema de queso",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.4
+      }
+     ]
+    },
+    {
+     "nombre": "34. Carrillada, cebolla crujiente y mayonesa",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.4
+      }
+     ]
+    },
+    {
+     "nombre": "35. Anchoas, tomate y crema de queso",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.4
+      }
+     ]
+    },
+    {
+     "nombre": "36. Lomo, cebolla caramelizada y mayonesa",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.4
+      }
+     ]
+    },
+    {
+     "nombre": "37. Chistorra y mojo picón",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.4
+      }
+     ]
+    },
+    {
+     "nombre": "38. Pollo, queso y mojo picón",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.4
+      }
+     ]
+    },
+    {
+     "nombre": "39. Tortilla, tomate, lechuga y guacamole",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.4
+      }
+     ]
+    },
+    {
+     "nombre": "40. Pollo kebab, tomate, lechuga y salsa César",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.4
+      }
+     ]
+    }
+   ],
+   "turno": "Carta"
+  },
+  {
+   "nombre": "Montados 2,80 €",
+   "descripcion": null,
+   "items": [
+    {
+     "nombre": "41. Mantecaíto",
+     "descripcion": "Jamón serrano, lomo, patatas fritas y salsa whisky",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.8
+      }
+     ]
+    },
+    {
+     "nombre": "42. Hot dog, cebolla crujiente, ketchup y mayonesa",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.8
+      }
+     ]
+    },
+    {
+     "nombre": "43. Serrano lomo",
+     "descripcion": "Jamón serrano, lomo y cebolla caramelizada",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.8
+      }
+     ]
+    },
+    {
+     "nombre": "44. Serrano pollo",
+     "descripcion": "Jamón serrano, pollo y cebolla caramelizada",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.8
+      }
+     ]
+    },
+    {
+     "nombre": "45. César",
+     "descripcion": "Pollo, queso, cebolla crujiente y salsa César",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.8
+      }
+     ]
+    },
+    {
+     "nombre": "46. Pollo kebab, queso, lechuga, cebolla crujiente y salsa yogur",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.8
+      }
+     ]
+    },
+    {
+     "nombre": "47. Salmón, crema de queso y aceite de oliva virgen extra",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.8
+      }
+     ]
+    },
+    {
+     "nombre": "48. Lomo, crema de queso, cebolla crujiente y mermelada de fresa",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.8
+      }
+     ]
+    },
+    {
+     "nombre": "49. Jamón serrano, crema de queso, tomate y guacamole",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.8
+      }
+     ]
+    },
+    {
+     "nombre": "50. Patanegra",
+     "descripcion": "Jamón ibérico y aceite de oliva virgen extra",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.8
+      }
+     ]
+    }
+   ],
+   "turno": "Carta"
+  },
+  {
+   "nombre": "Combos",
+   "descripcion": null,
+   "items": [
+    {
+     "nombre": "Sevillano",
+     "descripcion": "Montados 1, 8, 19, 20 y 41",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 8.0
+      }
+     ]
+    },
+    {
+     "nombre": "Gaditano",
+     "descripcion": "Montados 4, 7, 17, 29 y 43",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 8.0
+      }
+     ]
+    },
+    {
+     "nombre": "Malagueño",
+     "descripcion": "Montados 2, 6, 16, 37 y 46",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 8.0
+      }
+     ]
+    },
+    {
+     "nombre": "Cordobés",
+     "descripcion": "Montados 3, 13, 18, 31 y 50",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 8.0
+      }
+     ]
+    }
+   ],
+   "turno": "Carta"
+  },
+  {
+   "nombre": "Baguettes",
+   "descripcion": "Con patatas fritas.",
+   "items": [
+    {
+     "nombre": "1. Jamón ibérico",
+     "descripcion": "Corte a cuchillo, aceite de oliva virgen extra",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 5.5
+      }
+     ]
+    },
+    {
+     "nombre": "2. Tortilla con salsa a elegir",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 5.5
+      }
+     ]
+    },
+    {
+     "nombre": "3. Atún, tomate, lechuga y mayonesa",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 5.5
+      }
+     ]
+    },
+    {
+     "nombre": "4. Pollo y alioli",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 5.5
+      }
+     ]
+    },
+    {
+     "nombre": "5. Pollo kebab, salsa BBQ y cebolla crujiente",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 5.5
+      }
+     ]
+    },
+    {
+     "nombre": "6. Baguette de carrillera",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 6.5
+      }
+     ]
+    },
+    {
+     "nombre": "7. Crema de queso, pollo crujiente y cebolla caramelizada",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 6.5
+      }
+     ]
+    },
+    {
+     "nombre": "8. Crema de queso, pollo kebab, tomate y salsa yogur",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 6.5
+      }
+     ]
+    },
+    {
+     "nombre": "9. Serranito",
+     "descripcion": "Pollo o lomo, jamón serrano y pimiento verde",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 6.5
+      }
+     ]
+    },
+    {
+     "nombre": "10. Mantecaíto",
+     "descripcion": "Jamón serrano, lomo, patatas y salsa whisky",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 6.5
+      }
+     ]
+    }
+   ],
+   "turno": "Carta"
+  },
+  {
+   "nombre": "Postres",
+   "descripcion": "También puedes preguntar en barra por nuestras galletas, dulces o cualquier novedad que tengamos.",
+   "items": [
+    {
+     "nombre": "1. Montado de chocolate, crema de queso y mermelada de fresa",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "2. Montado de chocolate",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    }
+   ],
+   "turno": "Carta"
+  },
+  {
+   "nombre": "Jarritas",
+   "descripcion": "Jarra helada.",
+   "items": [
+    {
+     "nombre": "Cruzcampo Especial",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": "Pequeña",
+       "precio_con_iva": 1.7
+      },
+      {
+       "etiqueta": "Grande",
+       "precio_con_iva": 2.2
+      }
+     ]
+    },
+    {
+     "nombre": "Cruzcampo Sin Alcohol",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": "Pequeña",
+       "precio_con_iva": 1.7
+      },
+      {
+       "etiqueta": "Grande",
+       "precio_con_iva": 2.2
+      }
+     ]
+    },
+    {
+     "nombre": "Cruzcampo Radler",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": "Pequeña",
+       "precio_con_iva": 1.7
+      },
+      {
+       "etiqueta": "Grande",
+       "precio_con_iva": 2.2
+      }
+     ]
+    },
+    {
+     "nombre": "Tinto de verano con limón",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": "Pequeña",
+       "precio_con_iva": 1.7
+      },
+      {
+       "etiqueta": "Grande",
+       "precio_con_iva": 2.2
+      }
+     ]
+    }
+   ],
+   "turno": "Carta"
+  },
+  {
+   "nombre": "Cervezas",
+   "descripcion": "Más cervezas en la nevera.",
+   "items": [
+    {
+     "nombre": "Tercio Cruzcampo",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "Botellín Cruzcampo 0,0 %",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.5
+      }
+     ]
+    },
+    {
+     "nombre": "Tercio Estrella Galicia",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.5
+      }
+     ]
+    },
+    {
+     "nombre": "Cerveza Paulaner (500 ml)",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 3.0
+      }
+     ]
+    }
+   ],
+   "turno": "Carta"
+  },
+  {
+   "nombre": "Vinos",
+   "descripcion": "Precio por copa.",
+   "items": [
+    {
+     "nombre": "Ribera del Duero",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "Crianza Rioja",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "Verdejo",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "Frizzante",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    }
+   ],
+   "turno": "Carta"
+  },
+  {
+   "nombre": "Bebidas",
+   "descripcion": null,
+   "items": [
+    {
+     "nombre": "Agua (1/2 l)",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.2
+      }
+     ]
+    },
+    {
+     "nombre": "Café o infusión",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.5
+      }
+     ]
+    },
+    {
+     "nombre": "Batido o zumo",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.7
+      }
+     ]
+    },
+    {
+     "nombre": "Zumo de naranja natural",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "Coca-Cola, Sprite, Fanta, Nestea o Aquarius",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "Bebida energética (Red Bull)",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.5
+      }
+     ]
+    }
+   ],
+   "turno": "Carta"
+  },
+  {
+   "nombre": "Combinados y chupitos",
+   "descripcion": null,
+   "items": [
+    {
+     "nombre": "Combinado",
+     "descripcion": "Whisky, ron o ginebra",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 5.0
+      }
+     ]
+    },
+    {
+     "nombre": "Combinado con Red Bull",
+     "descripcion": "Whisky, ron o ginebra",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 6.0
+      }
+     ]
+    },
+    {
+     "nombre": "Chupito",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.5
+      }
+     ]
+    },
+    {
+     "nombre": "Chupito Castellana o Miura",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.5
+      }
+     ]
+    }
+   ],
+   "turno": "Carta"
   }
  ],
  "alergenos": {
