@@ -1,9 +1,16 @@
 {
  "nombre": "Desmontados Viapol",
- "subtitulo": "Desayunos",
+ "subtitulo": null,
  "nota_pie": null,
  "activa": true,
  "actualizada": "2026-09-17",
+ "turnos": [
+  {
+   "nombre": "Desayunos",
+   "desde": "05:00",
+   "hasta": "12:00"
+  }
+ ],
  "secciones": [
   {
    "nombre": "Tostadas",
@@ -400,7 +407,8 @@
       }
      ]
     }
-   ]
+   ],
+   "turno": "Desayunos"
   },
   {
    "nombre": "Completa tu tostada",
@@ -445,7 +453,8 @@
       }
      ]
     }
-   ]
+   ],
+   "turno": "Desayunos"
   },
   {
    "nombre": "Extras",
@@ -516,7 +525,8 @@
       }
      ]
     }
-   ]
+   ],
+   "turno": "Desayunos"
   },
   {
    "nombre": "Bebidas y bollería",
@@ -600,7 +610,8 @@
       }
      ]
     }
-   ]
+   ],
+   "turno": "Desayunos"
   }
  ],
  "alergenos": {
