@@ -1,10 +1,608 @@
 {
  "nombre": "Desmontados Viapol",
- "subtitulo": null,
+ "subtitulo": "Desayunos",
  "nota_pie": null,
- "activa": false,
+ "activa": true,
  "actualizada": "2026-09-17",
- "secciones": [],
+ "secciones": [
+  {
+   "nombre": "Tostadas",
+   "descripcion": null,
+   "items": [
+    {
+     "nombre": "Aceite",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 1.6
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 1.8
+      }
+     ]
+    },
+    {
+     "nombre": "Aceite y tomate",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 1.6
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 1.8
+      }
+     ]
+    },
+    {
+     "nombre": "Mantequilla o tulipán",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 1.6
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 1.8
+      }
+     ]
+    },
+    {
+     "nombre": "Nutella",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 1.8
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "Paté",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 1.8
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "Sobrasada",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 1.8
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "Pringá ibérica",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 1.8
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "Zurrapa de lomo",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 1.8
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "Mantequilla con mermelada de fresa o melocotón",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 1.9
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 2.1
+      }
+     ]
+    },
+    {
+     "nombre": "York y tomate o mantequilla",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 1.9
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 2.1
+      }
+     ]
+    },
+    {
+     "nombre": "Pavo y tomate o mantequilla",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 1.9
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 2.1
+      }
+     ]
+    },
+    {
+     "nombre": "Queso fresco o queso crema y tomate",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 1.9
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 2.1
+      }
+     ]
+    },
+    {
+     "nombre": "Carne mechá",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 2.2
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 2.4
+      }
+     ]
+    },
+    {
+     "nombre": "Atún y tomate",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 2.2
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 2.4
+      }
+     ]
+    },
+    {
+     "nombre": "Pollo, tomate y aceite",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 3.0
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 3.2
+      }
+     ]
+    },
+    {
+     "nombre": "Jamón ibérico, tomate y aceite",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 3.0
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 3.2
+      }
+     ]
+    },
+    {
+     "nombre": "Salmón y queso fresco",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 3.0
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 3.2
+      }
+     ]
+    },
+    {
+     "nombre": "Salmón y queso crema",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 3.0
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 3.2
+      }
+     ]
+    },
+    {
+     "nombre": "Aguacate con queso fresco",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 3.0
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 3.2
+      }
+     ]
+    },
+    {
+     "nombre": "Aguacate con queso crema",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 3.0
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 3.2
+      }
+     ]
+    },
+    {
+     "nombre": "Aguacate con pavo o york",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 3.0
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 3.2
+      }
+     ]
+    },
+    {
+     "nombre": "Salmón y aguacate",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 4.1
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 4.3
+      }
+     ]
+    },
+    {
+     "nombre": "Jamón ibérico y aguacate",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 4.1
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 4.3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nombre": "Completa tu tostada",
+   "descripcion": null,
+   "items": [
+    {
+     "nombre": "Añade café o infusión",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 0.7
+      }
+     ]
+    },
+    {
+     "nombre": "Añade zumo o batido",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.2
+      }
+     ]
+    },
+    {
+     "nombre": "Añade café y zumo",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.7
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nombre": "Extras",
+   "descripcion": null,
+   "items": [
+    {
+     "nombre": "Monodosis de mantequilla",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 0.15
+      }
+     ]
+    },
+    {
+     "nombre": "Monodosis de aceite",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 0.25
+      }
+     ]
+    },
+    {
+     "nombre": "Tomate triturado o en rodajas",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 0.3
+      }
+     ]
+    },
+    {
+     "nombre": "Crema de queso o queso fresco",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 0.3
+      }
+     ]
+    },
+    {
+     "nombre": "Aguacate",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nombre": "Bebidas y bollería",
+   "descripcion": null,
+   "items": [
+    {
+     "nombre": "Café",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.5
+      }
+     ]
+    },
+    {
+     "nombre": "Infusiones",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.4
+      }
+     ]
+    },
+    {
+     "nombre": "Batidos",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.7
+      }
+     ]
+    },
+    {
+     "nombre": "Zumos",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.7
+      }
+     ]
+    },
+    {
+     "nombre": "Zumo de naranja",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "Bollería",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.5
+      }
+     ]
+    }
+   ]
+  }
+ ],
  "alergenos": {
   "gluten": "Gluten",
   "crustaceos": "Crustáceos",
