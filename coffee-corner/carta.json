@@ -4,8 +4,768 @@
  "nota_pie": "Horario de cocina: de 13:00 a 16:00 y de 20:30 a 23:30. Todos los bocadillos y hamburguesas se sirven con patatas fritas.",
  "activa": true,
  "actualizada": "2026-09-17",
- "turnos": [],
+ "turnos": [
+  {
+   "nombre": "Desayunos",
+   "desde": "05:00",
+   "hasta": "13:00"
+  },
+  {
+   "nombre": "Carta",
+   "desde": "13:00",
+   "hasta": "05:00"
+  }
+ ],
  "secciones": [
+  {
+   "nombre": "Tostadas",
+   "descripcion": "Media o entera, en pan artesano o integral.",
+   "items": [
+    {
+     "nombre": "Aceite, mantequilla, paté o cremas",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 1.8
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 2.2
+      }
+     ]
+    },
+    {
+     "nombre": "Aceite o mantequilla + tomate triturado",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 2.1
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 2.5
+      }
+     ]
+    },
+    {
+     "nombre": "Aceite o mantequilla + tomate en rodajas",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 2.3
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 2.7
+      }
+     ]
+    },
+    {
+     "nombre": "Aceite o mantequilla + york o pavo",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 2.1
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 2.5
+      }
+     ]
+    },
+    {
+     "nombre": "Aceite o mantequilla + queso fresco o queso crema",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten",
+      "lacteos"
+     ],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 2.1
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 2.5
+      }
+     ]
+    },
+    {
+     "nombre": "Aceite o mantequilla + queso Edam",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten",
+      "lacteos"
+     ],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 2.4
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 2.8
+      }
+     ]
+    },
+    {
+     "nombre": "Aceite o mantequilla + atún",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten",
+      "pescado"
+     ],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 2.4
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 2.8
+      }
+     ]
+    },
+    {
+     "nombre": "Aceite o mantequilla + carne mechá",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 2.8
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 3.2
+      }
+     ]
+    },
+    {
+     "nombre": "Aceite o mantequilla + aguacate",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 2.9
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 3.3
+      }
+     ]
+    },
+    {
+     "nombre": "Aceite o mantequilla + jamón ibérico",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 3.2
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 3.6
+      }
+     ]
+    },
+    {
+     "nombre": "Aceite o mantequilla + salmón",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten",
+      "pescado"
+     ],
+     "precios": [
+      {
+       "etiqueta": "Media",
+       "precio_con_iva": 3.2
+      },
+      {
+       "etiqueta": "Entera",
+       "precio_con_iva": 3.6
+      }
+     ]
+    }
+   ],
+   "turno": "Desayunos"
+  },
+  {
+   "nombre": "Añade a tu tostada",
+   "descripcion": "Mismo suplemento en media y entera.",
+   "items": [
+    {
+     "nombre": "Tomate triturado",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 0.3
+      }
+     ]
+    },
+    {
+     "nombre": "Tomate en rodajas",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 0.5
+      }
+     ]
+    },
+    {
+     "nombre": "York, pavo, queso fresco o queso crema",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "lacteos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 0.3
+      }
+     ]
+    },
+    {
+     "nombre": "Queso Edam o atún",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "lacteos",
+      "pescado"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 0.6
+      }
+     ]
+    },
+    {
+     "nombre": "Carne mechá",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 0.8
+      }
+     ]
+    },
+    {
+     "nombre": "Aguacate",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.1
+      }
+     ]
+    },
+    {
+     "nombre": "Jamón ibérico o salmón",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "pescado"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.4
+      }
+     ]
+    }
+   ],
+   "turno": "Desayunos"
+  },
+  {
+   "nombre": "Oferta tostada + bebida",
+   "descripcion": "Con tu tostada, suma a su precio.",
+   "items": [
+    {
+     "nombre": "Café, infusión o Cola Cao",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "lacteos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 0.6
+      }
+     ]
+    },
+    {
+     "nombre": "Zumo o batido",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "lacteos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.0
+      }
+     ]
+    },
+    {
+     "nombre": "Café bombón",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "lacteos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.1
+      }
+     ]
+    },
+    {
+     "nombre": "Capuchino, refresco, Bifrutas o zumo de naranja natural",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "lacteos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.3
+      }
+     ]
+    }
+   ],
+   "turno": "Desayunos"
+  },
+  {
+   "nombre": "Bebidas de desayuno",
+   "descripcion": null,
+   "items": [
+    {
+     "nombre": "Café",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.6
+      }
+     ]
+    },
+    {
+     "nombre": "Café bombón",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "lacteos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.7
+      }
+     ]
+    },
+    {
+     "nombre": "Cafés especiales",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.6
+      }
+     ]
+    },
+    {
+     "nombre": "Capuchino de máquina",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "lacteos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "Capuchino de sobre",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "lacteos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.8
+      }
+     ]
+    },
+    {
+     "nombre": "Infusión",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.6
+      }
+     ]
+    },
+    {
+     "nombre": "Cola Cao",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "lacteos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.6
+      }
+     ]
+    },
+    {
+     "nombre": "Chocolate",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "lacteos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.5
+      }
+     ]
+    },
+    {
+     "nombre": "Batido",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "lacteos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.8
+      }
+     ]
+    },
+    {
+     "nombre": "Zumo",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.8
+      }
+     ]
+    },
+    {
+     "nombre": "Zumo de naranja natural",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.9
+      }
+     ]
+    },
+    {
+     "nombre": "Bifrutas",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "lacteos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    }
+   ],
+   "turno": "Desayunos"
+  },
+  {
+   "nombre": "Bollería",
+   "descripcion": null,
+   "items": [
+    {
+     "nombre": "Croissant",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "lacteos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "Napolitana",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "lacteos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "Donut glaseado",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "lacteos",
+      "mostaza",
+      "soja",
+      "frutos_cascara"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "Donut de chocolate",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "lacteos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "Muffin",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "lacteos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "Berlina",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "lacteos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "Palmera",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "lacteos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "Pepito de crema",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "lacteos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "Pepito de bombón",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "lacteos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "Cookie",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "lacteos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.5
+      }
+     ]
+    }
+   ],
+   "turno": "Desayunos"
+  },
   {
    "nombre": "Bocadillos clásicos",
    "descripcion": null,
@@ -109,7 +869,7 @@
      ]
     }
    ],
-   "turno": null
+   "turno": "Carta"
   },
   {
    "nombre": "Bocadillos especiales",
@@ -170,7 +930,7 @@
      ]
     }
    ],
-   "turno": null
+   "turno": "Carta"
   },
   {
    "nombre": "Arma tu bocadillo",
@@ -295,7 +1055,7 @@
      ]
     }
    ],
-   "turno": null
+   "turno": "Carta"
   },
   {
    "nombre": "Hamburguesas",
@@ -338,7 +1098,7 @@
      ]
     }
    ],
-   "turno": null
+   "turno": "Carta"
   },
   {
    "nombre": "Extras",
@@ -386,7 +1146,7 @@
      ]
     }
    ],
-   "turno": null
+   "turno": "Carta"
   },
   {
    "nombre": "Entrantes y para compartir",
@@ -520,7 +1280,7 @@
      ]
     }
    ],
-   "turno": null
+   "turno": "Carta"
   },
   {
    "nombre": "Ensaladas",
@@ -562,7 +1322,7 @@
      ]
     }
    ],
-   "turno": null
+   "turno": "Carta"
   },
   {
    "nombre": "Salsas extra",
@@ -582,7 +1342,7 @@
      ]
     }
    ],
-   "turno": null
+   "turno": "Carta"
   },
   {
    "nombre": "Postres",
@@ -609,7 +1369,7 @@
      ]
     },
     {
-     "nombre": "Browni",
+     "nombre": "Brownie",
      "descripcion": "Con helado, sirope de chocolate y un toque crujiente de crocanti de almendra",
      "disponible": true,
      "destacado": false,
@@ -644,6 +1404,1381 @@
       {
        "etiqueta": null,
        "precio_con_iva": 5.0
+      }
+     ]
+    },
+    {
+     "nombre": "Tarta de queso",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten",
+      "huevos",
+      "lacteos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 3.0
+      }
+     ]
+    }
+   ],
+   "turno": "Carta"
+  },
+  {
+   "nombre": "Refrescos y agua",
+   "descripcion": null,
+   "items": [
+    {
+     "nombre": "Refresco en lata",
+     "descripcion": "Coca-Cola, Coca-Cola Zero, Fanta Naranja sin azúcar, Aquarius, Fuze Tea o Nestea",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "Refresco botellín 25 cl",
+     "descripcion": "Coca-Cola, Zero, Zero Zero, Fanta, Seven Up, Sprite, Limón & Nada o tónica",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.8
+      }
+     ]
+    },
+    {
+     "nombre": "Agua 0,25 l",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.0
+      }
+     ]
+    },
+    {
+     "nombre": "Agua con gas",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.7
+      }
+     ]
+    },
+    {
+     "nombre": "Agua 1,5 l",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.5
+      }
+     ]
+    },
+    {
+     "nombre": "Bebida energética",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.5
+      }
+     ]
+    },
+    {
+     "nombre": "Monster, Burn o Red Bull",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.2
+      }
+     ]
+    }
+   ],
+   "turno": null
+  },
+  {
+   "nombre": "Cervezas",
+   "descripcion": null,
+   "items": [
+    {
+     "nombre": "Cerveza de barril · cortada",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.9
+      }
+     ]
+    },
+    {
+     "nombre": "Cerveza de barril · vaso de sidra",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.1
+      }
+     ]
+    },
+    {
+     "nombre": "Cruzcampo botellín",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.8
+      }
+     ]
+    },
+    {
+     "nombre": "Tercio Victoria Málaga",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.1
+      }
+     ]
+    },
+    {
+     "nombre": "Cruzcampo Especial",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.2
+      }
+     ]
+    },
+    {
+     "nombre": "Estrella Damm",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.2
+      }
+     ]
+    },
+    {
+     "nombre": "Alhambra Especial",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.2
+      }
+     ]
+    },
+    {
+     "nombre": "Lata Cruzcampo 0,5 l",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.2
+      }
+     ]
+    },
+    {
+     "nombre": "Heineken",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.3
+      }
+     ]
+    },
+    {
+     "nombre": "Tercio Estrella Galicia",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.5
+      }
+     ]
+    },
+    {
+     "nombre": "El Águila sin filtrar",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.5
+      }
+     ]
+    },
+    {
+     "nombre": "Voll Damm",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.8
+      }
+     ]
+    },
+    {
+     "nombre": "Lata Estrella Galicia 0,5 l",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 3.0
+      }
+     ]
+    },
+    {
+     "nombre": "Estrella Galicia 1906",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 3.0
+      }
+     ]
+    },
+    {
+     "nombre": "Alhambra Reserva 1925",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 3.0
+      }
+     ]
+    },
+    {
+     "nombre": "Alhambra Reserva Roja",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 3.0
+      }
+     ]
+    },
+    {
+     "nombre": "Cruzcampo Gran Reserva",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 3.0
+      }
+     ]
+    },
+    {
+     "nombre": "Desperados",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 3.0
+      }
+     ]
+    },
+    {
+     "nombre": "Corona",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 3.0
+      }
+     ]
+    },
+    {
+     "nombre": "Budweiser",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 3.0
+      }
+     ]
+    },
+    {
+     "nombre": "Paulaner",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 3.0
+      }
+     ]
+    },
+    {
+     "nombre": "Franziskaner",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 3.0
+      }
+     ]
+    },
+    {
+     "nombre": "Caletera",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 3.0
+      }
+     ]
+    },
+    {
+     "nombre": "Victoria Marengo",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 3.2
+      }
+     ]
+    },
+    {
+     "nombre": "Victoria Verdeja",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 3.2
+      }
+     ]
+    },
+    {
+     "nombre": "Victoria Trigo",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 3.2
+      }
+     ]
+    },
+    {
+     "nombre": "Salitos",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 3.5
+      }
+     ]
+    },
+    {
+     "nombre": "Victoria 0,0",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.2
+      }
+     ]
+    },
+    {
+     "nombre": "Victoria 0,0 Tostada",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.2
+      }
+     ]
+    },
+    {
+     "nombre": "Daura (sin gluten)",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.2
+      }
+     ]
+    },
+    {
+     "nombre": "Victoria Radler",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.2
+      }
+     ]
+    },
+    {
+     "nombre": "Ámbar Radler",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "gluten"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.2
+      }
+     ]
+    },
+    {
+     "nombre": "Ladrón de Manzanas",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.2
+      }
+     ]
+    },
+    {
+     "nombre": "Tinto de verano",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "sulfitos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.1
+      }
+     ]
+    }
+   ],
+   "turno": null
+  },
+  {
+   "nombre": "Vinos",
+   "descripcion": null,
+   "items": [
+    {
+     "nombre": "Copa de vino tinto",
+     "descripcion": "Rioja o Ribera del Duero",
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "sulfitos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.2
+      }
+     ]
+    },
+    {
+     "nombre": "Copa de vino blanco",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "sulfitos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.2
+      }
+     ]
+    },
+    {
+     "nombre": "Copa de manzanilla",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "sulfitos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 1.8
+      }
+     ]
+    },
+    {
+     "nombre": "Calimocho",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "sulfitos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 3.0
+      }
+     ]
+    },
+    {
+     "nombre": "Jarra de rebujito",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "sulfitos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 10.0
+      }
+     ]
+    }
+   ],
+   "turno": null
+  },
+  {
+   "nombre": "Copas · Whisky",
+   "descripcion": "Copa con refresco o tónica incluido.",
+   "items": [
+    {
+     "nombre": "JB",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 6.0
+      }
+     ]
+    },
+    {
+     "nombre": "Ballantine's",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 6.0
+      }
+     ]
+    },
+    {
+     "nombre": "White Label",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 6.0
+      }
+     ]
+    },
+    {
+     "nombre": "Red Label",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 6.0
+      }
+     ]
+    },
+    {
+     "nombre": "Jameson",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 7.0
+      }
+     ]
+    },
+    {
+     "nombre": "Jack Daniel's",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 7.0
+      }
+     ]
+    },
+    {
+     "nombre": "Ballantine's 10 años",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 7.0
+      }
+     ]
+    },
+    {
+     "nombre": "Four Roses (bourbon)",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 7.0
+      }
+     ]
+    },
+    {
+     "nombre": "Black Label",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 9.0
+      }
+     ]
+    },
+    {
+     "nombre": "Chivas 12",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 10.0
+      }
+     ]
+    },
+    {
+     "nombre": "Gold Label",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 16.0
+      }
+     ]
+    }
+   ],
+   "turno": null
+  },
+  {
+   "nombre": "Copas · Ginebra",
+   "descripcion": "Copa con refresco o tónica incluido.",
+   "items": [
+    {
+     "nombre": "Rives",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 6.0
+      }
+     ]
+    },
+    {
+     "nombre": "Larios",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 6.0
+      }
+     ]
+    },
+    {
+     "nombre": "Exótica",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 6.0
+      }
+     ]
+    },
+    {
+     "nombre": "Beefeater",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 6.0
+      }
+     ]
+    },
+    {
+     "nombre": "Tanqueray",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 6.0
+      }
+     ]
+    },
+    {
+     "nombre": "Tanqueray 0,0",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 6.0
+      }
+     ]
+    },
+    {
+     "nombre": "Seagram's",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 7.0
+      }
+     ]
+    },
+    {
+     "nombre": "Bombay Sapphire",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 7.0
+      }
+     ]
+    },
+    {
+     "nombre": "Puerto de Indias",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 7.0
+      }
+     ]
+    },
+    {
+     "nombre": "Nordés",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 7.0
+      }
+     ]
+    },
+    {
+     "nombre": "Martin Miller's",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 10.0
+      }
+     ]
+    },
+    {
+     "nombre": "G'Vine",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 10.0
+      }
+     ]
+    }
+   ],
+   "turno": null
+  },
+  {
+   "nombre": "Copas · Ron",
+   "descripcion": "Copa con refresco o tónica incluido.",
+   "items": [
+    {
+     "nombre": "Brugal",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 6.0
+      }
+     ]
+    },
+    {
+     "nombre": "Cacique",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 6.0
+      }
+     ]
+    },
+    {
+     "nombre": "Santa Teresa",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 6.0
+      }
+     ]
+    },
+    {
+     "nombre": "Legendario",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 6.0
+      }
+     ]
+    },
+    {
+     "nombre": "Havana Club",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 6.0
+      }
+     ]
+    },
+    {
+     "nombre": "Barceló",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 7.0
+      }
+     ]
+    },
+    {
+     "nombre": "Barceló Imperial",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 10.0
+      }
+     ]
+    }
+   ],
+   "turno": null
+  },
+  {
+   "nombre": "Copas · Vodka y otros",
+   "descripcion": "Copa con refresco o tónica incluido.",
+   "items": [
+    {
+     "nombre": "Smirnoff",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 6.0
+      }
+     ]
+    },
+    {
+     "nombre": "Cîroc",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 10.0
+      }
+     ]
+    },
+    {
+     "nombre": "Licor 43",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 6.0
+      }
+     ]
+    },
+    {
+     "nombre": "Malibú",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 7.0
+      }
+     ]
+    },
+    {
+     "nombre": "Disaronno",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 7.0
+      }
+     ]
+    }
+   ],
+   "turno": null
+  },
+  {
+   "nombre": "Licores y chupitos",
+   "descripcion": null,
+   "items": [
+    {
+     "nombre": "Baileys",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "lacteos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 5.0
+      }
+     ]
+    },
+    {
+     "nombre": "Malavita Amaretto",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 5.0
+      }
+     ]
+    },
+    {
+     "nombre": "Miura",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 5.0
+      }
+     ]
+    },
+    {
+     "nombre": "Pacharán",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 5.0
+      }
+     ]
+    },
+    {
+     "nombre": "Ruavieja",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 5.0
+      }
+     ]
+    },
+    {
+     "nombre": "Limoncello",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 5.0
+      }
+     ]
+    },
+    {
+     "nombre": "Vermut",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "sulfitos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.5
+      }
+     ]
+    },
+    {
+     "nombre": "Chupito de Jägermeister",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.5
+      }
+     ]
+    },
+    {
+     "nombre": "Chupito de Fireball",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.5
+      }
+     ]
+    },
+    {
+     "nombre": "Chupito de tequila José Cuervo",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.5
+      }
+     ]
+    },
+    {
+     "nombre": "Chupito de tequila de fresa",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.5
+      }
+     ]
+    },
+    {
+     "nombre": "Copa de anís",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
+      }
+     ]
+    },
+    {
+     "nombre": "Copa de brandy",
+     "descripcion": null,
+     "disponible": true,
+     "destacado": false,
+     "alergenos": [
+      "sulfitos"
+     ],
+     "precios": [
+      {
+       "etiqueta": null,
+       "precio_con_iva": 2.0
       }
      ]
     }
