@@ -2150,21 +2150,5 @@
    ],
    "turno": "Carta"
   }
- ],
- "alergenos": {
-  "gluten": "Gluten",
-  "crustaceos": "Crustáceos",
-  "huevos": "Huevo",
-  "pescado": "Pescado",
-  "cacahuetes": "Cacahuetes",
-  "soja": "Soja",
-  "lacteos": "Lácteos",
-  "frutos_cascara": "Frutos de cáscara",
-  "apio": "Apio",
-  "mostaza": "Mostaza",
-  "sesamo": "Sésamo",
-  "sulfitos": "Sulfitos",
-  "altramuces": "Altramuces",
-  "moluscos": "Moluscos"
- }
+ ]
 }

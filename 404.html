@@ -38,7 +38,9 @@ h3{margin:0;font-size:1.02rem;font-weight:600}
 .desc{color:var(--muted);margin:3px 0 0;font-size:.92rem}
 .meta{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
 .tag{font-size:.72rem;letter-spacing:.02em;padding:2px 7px;border-radius:6px;background:var(--accent-soft);color:var(--accent);font-weight:600}
-.al{font-size:.68rem;padding:2px 6px;border-radius:6px;border:1px solid var(--line);color:var(--muted)}
+.al{font-size:.68rem;padding:2px 6px;border-radius:6px;border:1px solid var(--line);color:var(--muted);display:inline-flex;align-items:center;gap:3px}
+.al img{width:18px;height:18px;display:block}
+@media (prefers-color-scheme:dark){.al img{filter:invert(1)}}
 .agotado h3,.agotado .price,.agotado .prices{color:var(--muted);text-decoration:line-through;text-decoration-thickness:1px}
 .agotado .tag.out{background:transparent;border:1px solid var(--muted);color:var(--muted);text-decoration:none}
 footer{padding:28px 0 48px;color:var(--muted);font-size:.85rem;border-top:1px solid var(--line);margin-top:24px}

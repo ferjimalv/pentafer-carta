@@ -5,21 +5,5 @@
  "activa": false,
  "actualizada": "2026-09-17",
  "turnos": [],
- "secciones": [],
- "alergenos": {
-  "gluten": "Gluten",
-  "crustaceos": "Crustáceos",
-  "huevos": "Huevo",
-  "pescado": "Pescado",
-  "cacahuetes": "Cacahuetes",
-  "soja": "Soja",
-  "lacteos": "Lácteos",
-  "frutos_cascara": "Frutos de cáscara",
-  "apio": "Apio",
-  "mostaza": "Mostaza",
-  "sesamo": "Sésamo",
-  "sulfitos": "Sulfitos",
-  "altramuces": "Altramuces",
-  "moluscos": "Moluscos"
- }
+ "secciones": []
 }
